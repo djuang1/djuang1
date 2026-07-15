@@ -1,6 +1,6 @@
 ### Hi there, I'm Dejim 👋
 
-Software engineer based in **Houston, TX**. I build products that help people find and use knowledge at work.
+Head of Solutions Engineering for [**Glean**](https://glean.com) based in **Houston, TX**. I build products that help people find and use knowledge at work.
 
 ---
 
